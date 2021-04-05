@@ -1,6 +1,6 @@
 ## Circle 阅读模式 – 为网页适配更舒适的阅读模式，支持深色模式
 
-目前已经上架 Chrome、Firefox 和 Microsoft Edge 扩展市场，其他平台陆续上架中。[下载安装](https://ranhe.xyz/circle-install/)
+目前已经上架 Chrome、360、Firefox 和 Microsoft Edge 扩展市场。[下载安装](https://ranhe.xyz/circle-install/)
 
 广告太多分散注意力、配色太丑不忍直视、字体太小看不清、排版太乱找不到正文，阅读真的需要这么困难吗？有没有产品可以把网页中的内容提取出来重新整理，渲染成更方便阅读的排版界面呢？
 
@@ -67,15 +67,18 @@ LI Yi：很快很简洁，感谢开发者！非常期待黑白名单~
 
 ## 安装指引
 
-目前已经上架 Chrome、Firefox 和 Microsoft Edge 扩展市场，其他平台陆续上架中
+
+目前已经上架 Chrome、360、 Firfox 和 Microsoft Edge 扩展市场
 
 进入[Microsoft Edge 浏览器扩展市场](https://microsoftedge.microsoft.com/addons/detail/circle-%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%EF%BD%9Creader-mode/hjkjecmcifblnghjpcjaofpakjpgfjio) 安装
 
 进入[Firefox 浏览器扩展市场](https://addons.mozilla.org/zh-CN/firefox/addon/circle-reading-mode/) 安装
 
+进入[360 浏览器扩展市场](https://ext.chrome.360.cn/webstore/detail/dhpfcgilccfkodnhbllpiaabofjbjcbg) 安装
+
 进入[Chrome 浏览器扩展市场](https://chrome.google.com/webstore/detail/circle-reader-mode/dhpfcgilccfkodnhbllpiaabofjbjcbg)下载
 
-无法访问外网的同学可以通过[这里](https://ranhe.xyz/post-images/circle.zip)下载，下载之后按照如下三步指引进行安装
+无法访问外网的同学可以通过[这里](https://ranhe.xyz/post-images/circle.zip)下载。下载的文件包，解压到一个单独的文件夹中并放在一个不变动的位置（变动位置，扩展将无法工作），按照如下三步指引进行安装
 
 ![Circle（阅读模式）安装指引](https://ranhe.xyz/post-images/1613023043158.png)
 
@@ -87,29 +90,11 @@ LI Yi：很快很简洁，感谢开发者！非常期待黑白名单~
 
 第三步：给我点赞，谢谢 🤣
 
-## 使用指引
-
-首次安装，Circle 会自动打开初始化界面，指引你完成初始化过程，初始化过程请不要关闭窗口。如下图所示：
-
-![Circle（阅读模式）初始化指引](https://ranhe.xyz/post-images/1613023672120.png)
-
-稍等片刻完成初始化之后会进入如下界面
-
-![Circle（阅读模式）初始化完成](https://ranhe.xyz/post-images/1613023720955.png)
-
-此刻安装任务已经全部做完，你可以选择查看使用指南或者进入设置页面进行个性化设置
-
-Circle 启用后在浏览器右上角显示一个灰色的圆圈图标（下图 2 处），即是 Circle 。最新版 chrome 会把所有扩展图标都折叠在了一处类似拼图的图标，你可以点击展开然后在圆圈图标右侧的图钉按钮（下图 1 处）移除到浏览器的右上角方便使用
-
-![Circle（阅读模式）的使用入口](https://ranhe.xyz/post-images/1613022302323.png)
-
-当打开任何文章页面（如当前页面），圆圈图标会变成绿色，点击可进入文章排版渲染之后的界面，再次点击可以退出（按下 esc 快捷键也支持退出）。在圆圈图标右键可以看到 “选项” 点击可以进入设置界面
-
 ## 问题反馈
 
-遇到任何问题或者产品缺陷可以在 https://github.com/hewenguang/circle/issues 提 issue
+遇到任何问题或者产品缺陷可以在 https://support.qq.com/products/317910 反馈
 
-没有 github 账号的话，可以通过邮箱 wenguang.fe@gmail.com 联系我
+你也可以通过微信 hewenguang_fe 或者邮箱 wenguang.fe@gmail.com 联系我
 
 QQ 讨论组：605710052
 
@@ -121,7 +106,8 @@ QQ 讨论组：605710052
 - [安装指引](https://ranhe.xyz/circle-install/)
 - [使用指南](https://ranhe.xyz/circle-usage/)
 - [Microsoft Edge 浏览器扩展市场](https://microsoftedge.microsoft.com/addons/detail/circle-%E9%98%85%E8%AF%BB%E6%A8%A1%E5%BC%8F%EF%BD%9Creader-mode/hjkjecmcifblnghjpcjaofpakjpgfjio) 
-- [Firefox 浏览器扩展市场](https://addons.mozilla.org/zh-CN/firefox/addon/circle-reading-mode/) 安装
+- [Firefox 浏览器扩展市场](https://addons.mozilla.org/zh-CN/firefox/addon/circle-reading-mode/)
+- [360 浏览器扩展市场](https://ext.chrome.360.cn/webstore/detail/dhpfcgilccfkodnhbllpiaabofjbjcbg)
 - [Chrome 浏览器扩展市场](https://chrome.google.com/webstore/detail/circle-reader-mode/dhpfcgilccfkodnhbllpiaabofjbjcbg)
 
 ## 支持我
@@ -137,4 +123,3 @@ QQ 讨论组：605710052
 - 执行 `yarn dev` 进行开发
 
 - 执行 `yarn build` 进行版本构建
-
